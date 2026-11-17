@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Road Chaos 3D",
+  "description": "Drive a decorated Bangladeshi battery Easy Bike through bustling Dhaka streets, dodge buses and trucks, smash arcade targets, outrun angry crowds, manage battery charge, and rack up National Loss points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
